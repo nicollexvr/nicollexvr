@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Nicolle Xavier e sou estudante de Sistemas de Informação com interesse em análise de dados, automação de processos e desenvolvimento de soluções tecnológicas. <br>Neste perfil compartilho projetos relacionados a análise de dados, dashboards, automação e desenvolvimento de soluções, utilizando ferramentas como Power BI, Python, SQL e Java.<br><br><br>My name is Nicolle Santos and I am an Information Systems student interested in data analytics, process automation and technology-driven solutions.<br>In this profile, I share projects related to data analysis, dashboards, automation and software development, using tools such as Power BI, Python, SQL and Java.</p>
+<p align="left">Me chamo Nicolle Xavier e sou estudante de Sistemas de Informação com interesse em análise de dados, automação de processos e desenvolvimento de soluções tecnológicas. <br>Neste perfil compartilho projetos relacionados a análise de dados, dashboards, automação e desenvolvimento de soluções, utilizando ferramentas como: PowerQuery, Excel, Power BI, Python, SQL e Java.<br><br><br>My name is Nicolle Santos and I am an Information Systems student interested in data analytics, process automation and technology-driven solutions.<br>In this profile, I share projects related to data analysis, dashboards, automation and software development, using tools such as PowerQuery, Excel, Power BI, Python, SQL and Java.</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
 ###
